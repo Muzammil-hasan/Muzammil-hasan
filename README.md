@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Muzammil-hasan
-- 👀 I’m interested in Front end development
-- 🌱 I’m currently learning back end
-- 💞️ I’m looking to collaborate on any front end stuff
+- 👀 I’m interested in Frontend development
+- 🌱 I’m currently learning backend
 - 📫 Here is my email muzammilsyed270300@gmail.com
 
 <!---
