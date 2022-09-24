@@ -2,6 +2,8 @@
 - 👀 I’m a Frontend developer (ReactJs)
 - 🌱 I’m currently learning backend
 - 📫 Here is my email muzammilsyed270300@gmail.com
+- Portfolio - https://www.muzammilsyed.ml/ (Vanilla JS)
+- Portfolio - https://muzamm.ml/ (ReactJs)
 
 <!---
 Muzammil-hasan/Muzammil-hasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
